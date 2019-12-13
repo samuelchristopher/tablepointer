@@ -5,6 +5,7 @@ import CircleHeading from '../../components/circleHeading'
 import BenefitsSection from '../../components/sections/benefitsSection'
 import KitchensSection from '../../components/sections/kitchensSection'
 import BottomCTASection from '../../components/sections/bottomCTASection'
+import Footer from '../../components/sections/footer'
 
 const Home = () => (
 	<div>
@@ -12,6 +13,7 @@ const Home = () => (
 		<BenefitsSection />
 		<KitchensSection />
 		<BottomCTASection />
+		<Footer />
 	</div>
 );
 
