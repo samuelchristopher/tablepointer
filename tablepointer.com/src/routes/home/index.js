@@ -2,11 +2,12 @@ import { h } from 'preact'
 import style from './style'
 
 import CircleHeading from '../../components/circleHeading'
+import BenefitsSection from '../../components/sections/benefitsSection'
 
 const Home = () => (
 	<div>
-		<CircleHeading text={"Your Complete Energy Partner"}/>
-		<p>This is the Home component.</p>
+		<CircleHeading headingText={"Your Complete Energy Partner"} showButton={true} buttonHref={"google.com"} buttonText={"Start Saving"}/>
+		<BenefitsSection />
 	</div>
 );
 

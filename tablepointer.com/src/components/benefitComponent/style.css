@@ -1,0 +1,64 @@
+.icon {
+    width: 60px;
+    height: 25px;
+    background: var(--orange);
+}
+
+.icon__energy {
+    background-color: white;
+    background: url('../../assets/icons/energy.svg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: contain;
+    margin-top: 2.5px;
+    margin-right: 20px;
+    width: 38px;
+}
+
+.icon__profit {
+    background-color: white;
+    background: url('../../assets/icons/profit.svg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: contain;
+    margin-top: 2.5px;
+    margin-right: 20px;
+    height: 45px;
+    margin-top: -10px;
+    width: 55px;
+}
+
+.icon__safe {
+    background-color: white;
+    background: url('../../assets/icons/safe.svg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: contain;
+    margin-top: 2.5px;
+    margin-right: 20px;
+    width: 38px;
+}
+
+.heading {
+    margin-top: 0;
+}
+
+.container {
+    display: flex;
+    margin-bottom: 16px;
+}
+
+@media only screen and (min-width: 700px) {
+  .container {
+      flex-direction: column;
+      max-width: 250px;
+      align-items: center;
+      text-align: center;
+  }
+
+  .icon {
+      width: 60px;
+      height: 50px;
+      margin: 0 0 20px 0;
+  }
+}

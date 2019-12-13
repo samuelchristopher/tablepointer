@@ -23,3 +23,8 @@
 .text {
     max-width: 89vw;
 }
+
+.circleheading__button {
+    margin-left: 125px;
+    margin-top: 10px;
+}

@@ -1,0 +1,7 @@
+.button__primary {
+    background: var(--blue);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 30px;
+    text-decoration: none;
+}
