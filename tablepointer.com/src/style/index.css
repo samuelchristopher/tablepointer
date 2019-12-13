@@ -1,12 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+@import 'normalize.css';
+
+html {
+	--blue: #1a237e;
+	--orange: #ff6f00;
+	--backrgound-color: white;
+}
+
 html, body {
 	height: 100%;
 	width: 100%;
 	padding: 0;
 	margin: 0;
-	background: #FAFAFA;
-	font-family: 'Helvetica Neue', arial, sans-serif;
+	background: var(--backrgound-color);
+	font-family: 'Lato', sans-serif;
 	font-weight: 400;
-	color: #444;
+	color: var(--blue);
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 }
