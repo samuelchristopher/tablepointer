@@ -1,0 +1,25 @@
+.circles {
+    width: 200px;
+    height: 100px;
+    background: url('../../assets/images/circles.svg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center center;
+    margin-left: -75px;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+}
+
+@media only screen and (max-width: 500px) {
+  .circles {
+      margin-left: -50px;
+      margin-right: 20px;
+  }
+}
+
+.text {
+    max-width: 89vw;
+}
