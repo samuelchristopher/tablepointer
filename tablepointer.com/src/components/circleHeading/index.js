@@ -2,8 +2,6 @@ import { h } from 'preact'
 import PrimaryButton from '../primaryButton'
 import style from './style'
 
-console.log(style)
-
 const CircleHeading = ({ headingText, showButton, buttonHref, buttonText }) => (
     <div>
         <div class={style.container}>

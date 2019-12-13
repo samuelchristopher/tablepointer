@@ -1,0 +1,10 @@
+.container {
+    max-width: 500px;
+    margin: 30px auto 0 auto;
+    text-align: center;
+}
+
+.heading {
+    margin-bottom: 30px;
+    text-transform: capitalize;
+}
