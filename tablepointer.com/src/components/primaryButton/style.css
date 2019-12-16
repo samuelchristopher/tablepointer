@@ -4,4 +4,9 @@
     padding: 10px 20px;
     border-radius: 30px;
     text-decoration: none;
+    transition: background ease-in-out 90ms;
+}
+
+.button__primary:hover {
+    background: var(--hover-blue);
 }

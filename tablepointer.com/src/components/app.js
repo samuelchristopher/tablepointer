@@ -1,7 +1,8 @@
 import { h, Component } from 'preact';
 import { Router } from 'preact-router';
 
-import Header from './header';
+import Header from './header'
+import Footer from './sections/footer'
 
 // Code-splitting is automated for routes
 import Home from '../routes/home'
@@ -25,7 +26,8 @@ export default class App extends Component {
 					<Home path="/" />
 					<Contact path="/contact/" />
 				</Router>
+				<Footer />
 			</div>
-		);
+		)
 	}
 }
