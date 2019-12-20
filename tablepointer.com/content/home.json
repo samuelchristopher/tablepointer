@@ -1,6 +1,4 @@
 {
-    "sectionOne": {
-        "headingText": "Hello world",
-        "buttonText": "Start Saving"
-    }
+    "title": "hello0",
+    "intro": "the best part"
 }
