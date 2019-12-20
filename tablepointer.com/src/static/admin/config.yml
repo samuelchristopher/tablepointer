@@ -9,7 +9,7 @@ collections:
     files:
       - label: "Home"
         name: "home"
-        file: "content/about.yml"
+        file: "content/home.json"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Intro, name: intro, widget: markdown}
@@ -20,3 +20,9 @@ collections:
               - {label: Name, name: name, widget: string}
               - {label: Position, name: position, widget: string}
               - {label: Photo, name: photo, widget: image}
+          - label: Section One
+            name: sectionOne
+            widget: list
+            fields:
+              - {label: Heading Text, name: headingText, widget: string}
+              - {label: Button Text, name: buttonText, widget: string}
