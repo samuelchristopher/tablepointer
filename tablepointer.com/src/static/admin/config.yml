@@ -3,7 +3,7 @@ backend:
   branch: cms
 media_folder: "tablepointer.com/content/images/uploads"
 public_folder: "/images/uploads"
-logo_url: tablepointer.com/src/assets/images/logo.webp
+logo_url: logo.webp
 collections:
   - label: "Pages"
     name: "pages"
