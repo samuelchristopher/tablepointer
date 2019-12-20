@@ -22,6 +22,7 @@ export default class App extends Component {
 		return (
 			<div id="app">
 				<Header />
+				<script src="https://identity.netlify.com/v1/netlify-identity-widget.js" />
 				<Router onChange={this.handleRoute}>
 					<Home path="/" />
 					<Contact path="/contact/" />
