@@ -1,6 +1,6 @@
 {
-    sectionOne: {
-        headingText: "Hello world",
-        buttonText: "Start Saving"
+    "sectionOne": {
+        "headingText": "Hello world",
+        "buttonText": "Start Saving"
     }
 }
