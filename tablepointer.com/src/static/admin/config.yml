@@ -1,7 +1,7 @@
 backend:
   name: git-gateway
   branch: cms
-media_folder: "static/images/uploads"
+media_folder: "tablepointer.com/content/images/uploads"
 public_folder: "/images/uploads"
 collections:
   - label: "Pages"
@@ -9,7 +9,7 @@ collections:
     files:
       - label: "Home"
         name: "home"
-        file: "static/content/home.json"
+        file: "tablepointer.com/content/home.json"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Intro, name: intro, widget: markdown}
