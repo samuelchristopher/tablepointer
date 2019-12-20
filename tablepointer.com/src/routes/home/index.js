@@ -13,8 +13,7 @@ console.log(HomeContent)
 
 const Home = () => (
 	<div>
-		<CircleHeading headingText={"Your Complete Energy Partner"} showButton={true} buttonHref="/contact" buttonText={"Start Saving"}/>
-		<p>this is from the home content: {HomeContent.title} </p>
+		<CircleHeading headingText={HomeContent.headingText} showButton={true} buttonHref="/contact" buttonText={HomeContent.buttonText}/>
 		<BenefitsSection />
 		<KitchensSection />
 		<DashboardSection />
