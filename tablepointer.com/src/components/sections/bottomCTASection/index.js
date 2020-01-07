@@ -1,6 +1,7 @@
 import { h } from 'preact'
 import style from './style'
 import PrimaryButton from '../../primaryButton'
+import HomeContent from '../../../../content/home.json'
 
 const BottomCTASection = () => (
     <div class={style.container}>

@@ -31,3 +31,4 @@ collections:
           - {label: Dashboard Three Text, name: dashboardThreeText, widget: string}
           - {label: Solution Heading, name: solutionHeading, widget: string}
           - {label: Solution Text, name: solutionText, widget: string}
+          - {label: Bottom CTA Heading, name: bottomCTAHeading, widget: string}
