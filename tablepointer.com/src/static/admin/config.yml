@@ -14,3 +14,9 @@ collections:
         fields:
           - {label: Heading Text, name: headingText, widget: string}
           - {label: Button Text, name: buttonText, widget: string}
+          - {label: Benefit One Title, name: benefitOneTitle, widget: string}
+          - {label: Benefit One Text, name: benefitOneText, widget: string}
+          - {label: Benefit Two Title, name: benefitTwoTitle, widget: string}
+          - {label: Benefit Two Text, name: benefitTwoText, widget: string}
+          - {label: Benefit Three Title, name: benefitThreeTitle, widget: string}
+          - {label: Benefit Three Text, name: benefitThreeText, widget: string}

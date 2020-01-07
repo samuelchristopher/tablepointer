@@ -1,6 +1,7 @@
 import { h } from 'preact'
 import style from './style'
 import BenefitComponent from '../../benefitComponent'
+import HomeContent from '../../../../content/home.json'
 
 const BenefitsSection = () => (
     <div class={style.container}>
