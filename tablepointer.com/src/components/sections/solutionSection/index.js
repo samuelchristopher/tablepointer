@@ -1,6 +1,7 @@
 import { h } from 'preact'
 import style from './style'
 import CircleHeading from '../../circleHeading'
+import HomeContent from  '../../../../content/home.json'
 
 const SolutionsSection = () => (
     <div class={style.container}>

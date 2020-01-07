@@ -29,3 +29,5 @@ collections:
           - {label: Dashboard Two Text, name: dashboardTwoText, widget: string}
           - {label: Dashboard Three Title, name: dashboardThreeTitle, widget: string}
           - {label: Dashboard Three Text, name: dashboardThreeText, widget: string}
+          - {label: Solution Heading, name: solutionHeading, widget: string}
+          - {label: Solution Text, name: solutionText, widget: string}
