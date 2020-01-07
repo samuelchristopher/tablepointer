@@ -1,5 +1,6 @@
 import { h } from 'preact'
 import style from './style'
+import HomeContent from '../../../../content/home.json'
 
 const KitchensSection = () => (
     <div class={style.container}>

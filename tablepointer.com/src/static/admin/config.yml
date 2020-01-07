@@ -20,3 +20,5 @@ collections:
           - {label: Benefit Two Text, name: benefitTwoText, widget: string}
           - {label: Benefit Three Title, name: benefitThreeTitle, widget: string}
           - {label: Benefit Three Text, name: benefitThreeText, widget: string}
+          - {label: Kitchen Section Title, name: kitchenSectionTitle, widget: string}
+          - {label: Kitchen Section Text, name: kitchenSectionText, widget: string}
