@@ -5,7 +5,7 @@ import HomeContent from '../../../../content/home.json'
 
 const BottomCTASection = () => (
     <div class={style.container}>
-        <h1 class={style.heading}>See how much you could start saving today</h1>
+        <h1 class={style.heading}>{HomeContent.bottomCTAHeading}</h1>
         <PrimaryButton text={"Start Saving"} linkHREF="/contact" />
     </div>
 )
