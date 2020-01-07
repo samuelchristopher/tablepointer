@@ -23,3 +23,9 @@ collections:
           - {label: Kitchen Section Title, name: kitchenSectionTitle, widget: string}
           - {label: Kitchen Section Paragraph One, name: kitchenSectionPOne, widget: string}
           - {label: Kitchen Section Paragraph Two, name: kitchenSectionPTwo, widget: string}
+          - {label: Dashboard One Title, name: dashboardOneTitle, widget: string}
+          - {label: Dashboard One Text, name: dashboardOneText, widget: string}
+          - {label: Dashboard Two Title, name: dashboardTwoTitle, widget: string}
+          - {label: Dashboard Two Text, name: dashboardTwoText, widget: string}
+          - {label: Dashboard Three Title, name: dashboardThreeTitle, widget: string}
+          - {label: Dashboard Three Text, name: dashboardThreeText, widget: string}

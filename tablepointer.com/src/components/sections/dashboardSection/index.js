@@ -1,5 +1,6 @@
 import { h } from 'preact'
 import DashComponent from '../../dashComponent'
+import HomeContent from '../../../../content/home.json'
 
 const DashboardSection = () => (
     <div>
