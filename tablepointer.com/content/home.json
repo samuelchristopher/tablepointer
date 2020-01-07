@@ -1,10 +1,12 @@
 {
-  "headingText": "Your Energy Saving Partner",
-  "buttonText": "Start Saving",
-  "benefitOneTitle": "Reduce Energy Costs",
-  "benefitOneText": "TablePointer's customized technology and data analysis solutions can result in energy savings of up to 30% per restaurant location.",
-  "benefitTwoTitle": "Increase Profitability",
   "benefitTwoText": "For many kitchens and restaurants, utility bills account for nearly one third of total costs and an energy savings of just 20% can result in an additional 1% of profit.",
+  "benefitTwoTitle": "Increase Profitability",
+  "benefitOneTitle": "Reduce Energy Costs",
+  "kitchenSectionText": "TablePointer is the complete energy management partner for restaurants. The TablePointer system intelligently monitors and controls critical HVAC, refrigeration, lighting and ventilation equipment to actively save energy while providing complete visibility and control across your entire portfolio.  After analyzing your energy data, utility bills and operations, TablePointer experts will recommend the right combination of technology and behaviors to reduce your energy consumption by up to 30%.",
+  "headingText": "Your Energy Saving Partner",
   "benefitThreeTitle": "Zero Risk or Investment",
-  "benefitThreeText": "TablePointer’s system requires zero upfront costs and is paid for by taking a share of the energy savings that it generates."
+  "benefitThreeText": "TablePointer’s system requires zero upfront costs and is paid for by taking a share of the energy savings that it generates.",
+  "kitchenSectionTitle": "We Help Commercial Kitchens Take Control of Energy Costs",
+  "benefitOneText": "TablePointer's customized technology and data analysis solutions can result in energy savings of up to 30% per restaurant location.",
+  "buttonText": "Start Saving"
 }
