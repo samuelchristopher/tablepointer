@@ -21,4 +21,5 @@ collections:
           - {label: Benefit Three Title, name: benefitThreeTitle, widget: string}
           - {label: Benefit Three Text, name: benefitThreeText, widget: string}
           - {label: Kitchen Section Title, name: kitchenSectionTitle, widget: string}
-          - {label: Kitchen Section Text, name: kitchenSectionText, widget: string}
+          - {label: Kitchen Section Paragraph One, name: kitchenSectionPOne, widget: string}
+          - {label: Kitchen Section Paragraph Two, name: kitchenSectionPTwo, widget: string}
