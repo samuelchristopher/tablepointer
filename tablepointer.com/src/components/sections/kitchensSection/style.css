@@ -9,3 +9,7 @@
     max-width: 510px;
     margin: 0 auto;
 }
+
+.text {
+    text-align: justify;
+}

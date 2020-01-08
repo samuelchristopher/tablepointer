@@ -48,6 +48,10 @@
     margin-bottom: 16px;
 }
 
+.text {
+    text-align: justify;
+}
+
 @media only screen and (min-width: 700px) {
   .container {
       flex-direction: column;

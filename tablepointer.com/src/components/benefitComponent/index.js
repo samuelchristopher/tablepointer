@@ -6,7 +6,7 @@ const BenefitComponent = ({ icon, headingText, pText }) => (
         <div class={`${style.icon} ${icon == "energy" ? style.icon__energy : ''} ${icon == "profit" ? style.icon__profit : ''} ${icon == "safe" ? style.icon__safe : ''}`}/>
         <div class={style.textcontainer}>
             <h2 class={style.heading}>{ headingText }</h2>
-            <p>{ pText }</p>
+            <p class={style.text}>{ pText }</p>
         </div>
     </div>
 )

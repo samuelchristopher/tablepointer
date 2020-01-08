@@ -6,8 +6,8 @@ const KitchensSection = () => (
 	<div class={style.container}>
 		<div class={style.content}>
 			<h1>{HomeContent.kitchenSectionTitle}</h1>
-			<p>{HomeContent.kitchenSectionPOne}</p>
-			<p>{HomeContent.kitchenSectionPTwo}</p>
+			<p class={style.text}>{HomeContent.kitchenSectionPOne}</p>
+			<p class={style.text}>{HomeContent.kitchenSectionPTwo}</p>
 		</div>
 	</div>
 )
